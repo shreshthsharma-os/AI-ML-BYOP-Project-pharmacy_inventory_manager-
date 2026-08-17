@@ -90,7 +90,7 @@ When a patient arrives with a doctor's prescription:
 4. The system will:
    - Check if the medicine is available in stock.
    - Deduct the dispensed quantity from inventory.
-   - Generate a printed receipt with all details.
+   - Generate a printed receipt with all  purchase details.
    - Save the record to `sales.json` for future reference.
 
 ---
