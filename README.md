@@ -100,7 +100,7 @@ When a patient arrives with a doctor's prescription:
 All data is stored locally in simple **JSON files**:
 
 - **`inventory.json`** — Holds all medicine details (name, quantity, price, expiry)
-- **`sales.json`** — Holds all past prescriptions and sales records
+- **`sales.json`** — Holds all past prescriptions and purchase records
 
 No database setup required. Data persists between sessions automatically.
 
